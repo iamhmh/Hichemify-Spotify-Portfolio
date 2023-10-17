@@ -1,6 +1,6 @@
-# Digit Resume - Day04 to 05
+# Hichemify - Digital Resume
 ## React / Tailwindcss
-### Spotify Portfolio Clone - Hichemify
+### Spotify Portfolio Clone
 
 ### To use and see the project, follow those steps :
 - `git clone <githublink>` to clone the repository
